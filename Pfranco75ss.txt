@@ -1,0 +1,19 @@
+Git hub es una plataforma que sirve para contener repositorios y Git es el cambio de versiones de forma local
+
+Comandos usados
+git init
+git add.
+git -m commit "Para hacer commit"
+git push
+git pull
+git branch
+git branch ramalocal
+git clone linkrepositorioremoto
+git remote add origin linkrepositorioremoto
+git branch -M main
+git push -u origin main
+git fetch origin
+git branch -r //para ver ramasremotas
+git chekout -b desarrollo origin/desarrollo
+Luego ya puedes crear archivo, agregar, commit y usar status y push and pull.
+
